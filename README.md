@@ -1,0 +1,1 @@
+Here is my first project from Odin. I learned the basics of html, from the boilerplate to headings, links, and photos, managing them all with files and directories. 
